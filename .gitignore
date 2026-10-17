@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java / Spring Boot
 Backend/target/
 
@@ -7,6 +8,21 @@ Frontend/dist/
 
 # IDE files
 .idea/
+=======
+
+# Java / Spring Boot
+backend/target/
+*.class
+*.log
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE files
+.idea/
+.vscode/
+>>>>>>> ef845260398b5e1e19dede58b8d8a8e3842f3ede
 *.iml
 
 # Environment secrets
