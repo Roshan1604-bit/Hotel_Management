@@ -1,0 +1,9 @@
+
+# Count Java files as Java
+*.java linguist-detectable=true
+
+# Exclude frontend files from language statistics
+*.js linguist-detectable=false
+*.jsx linguist-detectable=false
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
